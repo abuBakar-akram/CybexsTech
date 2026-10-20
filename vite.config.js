@@ -2,7 +2,8 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
     root: '.',
-    base: '/InfiniteCS-Website/',
+    base: '/',
+    plugins: [],
     build: { outDir: 'dist' },
     server: { open: true },
 });
