@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-label="InfiniteCS Website: prospect work, shelved">
+  <defs>
+    <radialGradient id="glow" gradientUnits="userSpaceOnUse" cx="1090" cy="200" r="340"><stop offset="0" stop-color="#2E4FD6" stop-opacity=".30"/><stop offset="1" stop-color="#2E4FD6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".08"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".04"/></linearGradient>
+    <filter id="lift" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity=".45"/></filter>
+    <style>
+      text { font-family: Satoshi,'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif; }
+    </style>
+  </defs>
+  <rect width="1280" height="400" rx="28" fill="#121315"/>
+  <rect width="1280" height="400" rx="28" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1279" height="399" rx="27.5" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <circle cx="84" cy="59" r="4" fill="#2E4FD6"/>
+  <text x="102" y="64" font-size="14" font-weight="600" letter-spacing="1.68" fill="#9A9CA3">VITE · VANILLA JS · GSAP · LUCIDE · GLASSMORPHISM · CSS DESIGN TOKENS</text>
+  <text x="80" y="110" font-size="15" font-weight="700" letter-spacing="2.40" fill="#8EA2F4">PROSPECT WORK · SHELVED · PORTFOLIO SHOWCASE</text>
+  <text x="78" y="192" font-size="80.0" font-weight="700" letter-spacing="-2.80" fill="#ECEBE7">Infinite Contact</text>
+  <text x="78" y="270" font-size="80.0" font-weight="700" letter-spacing="-2.80" fill="#ECEBE7">Solutions<tspan fill="#8EA2F4">.</tspan></text>
+  <text x="80" y="324" font-size="22" font-weight="500" fill="#C9C8C4">Enterprise BPO landing · ~2,500 LOC · 9 sections · live-look</text>
+  <line x1="80" y1="348" x2="1200" y2="348" stroke="#ECEBE7" stroke-opacity=".12"/>
+  <text x="80" y="376" font-size="13" font-weight="600" letter-spacing="1.56" fill="#9A9CA3">HERO · ABOUT · IMPACT · SERVICES · STRATEGY · GLOBAL · TESTIMONIALS · FAQ · CTA</text>
+  <g filter="url(#lift)">
+    <rect x="996" y="92" width="204" height="159" rx="28" fill="url(#card)" stroke="#FFFFFF" stroke-opacity=".14"/>
+  </g>
+  <circle cx="1098" cy="120" r="4" fill="#2E4FD6"/>
+  <text x="1098" y="164" text-anchor="middle" font-size="16" font-weight="700" letter-spacing="2.2" fill="#ECEBE7">PROSPECT</text>
+  <text x="1098" y="195" text-anchor="middle" font-size="16" font-weight="700" letter-spacing="2.2" fill="#ECEBE7">DROPPED</text>
+  <text x="1098" y="226" text-anchor="middle" font-size="16" font-weight="700" letter-spacing="2.2" fill="#ECEBE7">SHOWCASE</text>
+</svg>
